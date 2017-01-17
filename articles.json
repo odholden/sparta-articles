@@ -4,9 +4,14 @@
     "course": "sdet-7",
     "title": "DigitalOcean, DNSimple and Terraform: A very short introduction",
     "url": "https://blog.spartaglobal.com/digitalocean-dnsimple-and-terraform-a-very-short-introduction-38e84990bbf3#.6dm2effxm"
-  }
-  {"author": "George Harris",
+  },
+ 
+ {
+    
+  	"author": "George Harris",
     "course": "sdet-7",
     "title": "The Code Behind Code",
-    "url": "https://medium.com/@gharris_46002/the-code-behind-code-f4af5a804336#.u8wf0kcil"}
+    "url": "https://medium.com/@gharris_46002/the-code-behind-code-f4af5a804336#.u8wf0kcil"
+  } 
+
 ]
